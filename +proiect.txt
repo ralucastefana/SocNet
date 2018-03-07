@@ -1,0 +1,12 @@
+sighandler:
+- waitpid -> dealoca resursele (sau -1 = orice copil) si deblocheaza
+
+setsockopt
+
+inet_ntop (domeniu, adresa, adresa pasata - sir de caractere, dimensiunea adresei convertite):
+- functie de conversie 
+
+signal:
+- ignora SIGCHILD
+- se ocupa SO
+
